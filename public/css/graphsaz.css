@@ -1,0 +1,154 @@
+.pd-dark{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+
+
+    width: 150px;
+    align-items: center;
+}
+.mt-dark{
+    margin-top: 30px;
+}
+.pt-dark{
+    width: 150px;
+    margin-top: 190px;
+    /*padding-top: 00px;*/
+}
+.direci{
+    direction: rtl;
+}
+.bg-color{
+    background-color: #4a5568;
+}
+
+.form-create{
+    margin-left: 350px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.btn-create{
+    margin-right: 30px;
+}
+.btn-tadwin{
+    margin-right: 20px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.btn-pos {
+    margin-left: 10px;
+}
+.img-gallery {
+    width: 300px;
+    height: 300px;
+}
+.text-gallery{
+    margin-left: 135px;
+}
+.gallery-index{
+    margin-top: 100px;
+}
+.gallery-title{
+    margin-top: 0;
+    margin-left: 165px;
+}
+.btn-gallery{
+    margin-bottom: 50px;
+    align-items: center;
+}
+.btn-danger-row {
+    width: 253px;
+}
+.user-card {
+    direction: rtl;
+    margin-top: 30px;
+}
+.user-btn {
+    margin-top: 20px;
+}
+.btn-user-danger {
+    margin-right: 10px;
+}
+.btn-user-pri{
+    margin-right: 10px;
+}
+.btn-with {
+    width: 100px;
+    margin-top: 10px;
+}
+.form-shape {
+    margin-left: 400px;
+}
+
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.social-link:hover, .social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+}
+.shadow{
+    box-shadow: 3px 3px 5px;
+    border: #4e555b;
+}
+.rtl-dr{
+    direction: rtl;
+}
+.user-form{
+
+    padding-right: 300px;
+    padding-top: 150px;
+}
+.border-dava{
+    border-style: solid;
+}
+.card-padding{
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.pro-btn {
+    border-radius: 100%;
+}
+.pd-user {
+    margin-left: 30px;
+}
+.log-pd{
+    margin-top: 200px;
+}
+.login-pd {
+    direction: rtl;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+.btn-log{
+    margin-right: 250px;
+}
+.graph{
+padding-left: 390px;
+    padding-top: 30px;
+}
+.user-name{
+    margin-left: 10px;
+    direction: rtl;
+}
+.spinner-user{
+    direction: rtl;
+}
